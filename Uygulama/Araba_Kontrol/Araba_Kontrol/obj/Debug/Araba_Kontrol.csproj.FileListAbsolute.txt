@@ -1,0 +1,9 @@
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\bin\Debug\Araba_Kontrol.exe
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\bin\Debug\Araba_Kontrol.pdb
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.csprojAssemblyReference.cache
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.Form1.resources
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.Properties.Resources.resources
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.csproj.GenerateResource.cache
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.exe
+C:\Users\sevil\Desktop\Proje\Uygulama\Araba_Kontrol\Araba_Kontrol\obj\Debug\Araba_Kontrol.pdb
